@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, sou Gabriel Calado da Silva Castro! 👋
 
-<!--
-**castruti/castruti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um programador geral apaixonado por tecnologia e resolução de problemas. Tenho experiência em diversas áreas de desenvolvimento, como automação, desenvolvimento web, APIs, e mais. Meu objetivo é aprender constantemente e entregar soluções eficientes e de qualidade para cada desafio que enfrento.
 
-Here are some ideas to get you started:
+## Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens**: Python, JavaScript, SQL, HTML, CSS
+- **Ferramentas**: Git, Docker, Node.js, Flask, Django, React
+- **Áreas de Interesse**: Desenvolvimento Web, Automação, Integrações de Sistemas
+
+## Projetos
+
+Aqui estão alguns dos projetos em que trabalhei:
+
+- **[Projeto 1](link)**: Descrição do projeto e tecnologias usadas.
+- **[Projeto 2](link)**: Descrição do projeto e tecnologias usadas.
+- **[Projeto 3](link)**: Descrição do projeto e tecnologias usadas.
+
+## Vamos conversar!
+
+Se você está interessado em colaborar ou contratar meus serviços, sinta-se à vontade para entrar em contato. Estou sempre aberto a novos desafios e oportunidades.
+
+---
+
+Obrigado por visitar meu perfil!
